@@ -1,3 +1,5 @@
 <h4 align='center'>health admin nuxt3版本</h4>
 
 <h4 align='center'><a href="https://huberyyang.site:81/">在线</a> | <a href="https://huberyyang.site:81/">Live</a></h4>
+
+<h4 align='center'>最新版react+tailwind健身管理系统即将上线</h4>
